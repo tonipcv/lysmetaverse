@@ -49,10 +49,10 @@ export default function Home() {
               </div>
             </div>
             
-            <h1 className="text-4xl sm:text-6xl md:text-7xl font-normal leading-[1.1] tracking-tight bg-gradient-to-b from-white to-gray-500 bg-clip-text text-transparent">
-              Transformando pequenas marcas<br />em negócios escaláveis
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-normal leading-[1.1] tracking-tight bg-gradient-to-b from-white to-gray-500 bg-clip-text text-transparent">
+              Transformando pequenas<br />marcas em negócios<br className="hidden sm:block" /> escaláveis
             </h1>
-            <p className="text-lg sm:text-xl text-gray-400 max-w-2xl leading-relaxed">
+            <p className="text-lg sm:text-xl text-gray-400 max-w-xl leading-relaxed">
               Consultoria estratégica especializada em lançamento e growth hacking de marcas.
             </p>
             <a href="#contact" className="inline-flex items-center gap-2 border border-white/20 px-6 sm:px-8 py-3 sm:py-4 rounded-full hover:bg-white/5 transition-colors text-sm sm:text-base">
